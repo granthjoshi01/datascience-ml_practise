@@ -172,4 +172,4 @@ By completing this project, you'll learn:
 
 **Happy Learning! 🎉**
 
-*If you found this project helpful, please give it a ⭐ on GitHub!*
+
